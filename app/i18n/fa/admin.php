@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'آمار',
 		'all_feeds' => ' همه فیدها',
+		'average' => 'Average (%s)',	// TODO
 		'category' => ' دسته',
 		'date_published' => 'تاریخ انتشار',
 		'date_received' => 'تاریخ دریافت',

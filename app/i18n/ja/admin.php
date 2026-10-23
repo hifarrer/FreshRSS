@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => '統計',
 		'all_feeds' => 'すべてのフィード',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'カテゴリ',
 		'date_published' => '公開日ごと',
 		'date_received' => '受信日ごと',

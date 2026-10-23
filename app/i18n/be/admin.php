@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Статыстыка',
 		'all_feeds' => 'Усе стужкі',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Катэгорыя',
 		'date_published' => 'Дата публікацыі',
 		'date_received' => 'Дата атрымання',

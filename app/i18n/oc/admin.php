@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Estatisticas',
 		'all_feeds' => 'Totes los fluxes',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Categoria',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

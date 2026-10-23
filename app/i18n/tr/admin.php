@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'İstatistikler',
 		'all_feeds' => 'Tüm beslemeler',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategori',
 		'date_published' => 'Yayın tarihi',
 		'date_received' => 'Alınma tarihi',

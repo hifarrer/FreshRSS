@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => '통계',
 		'all_feeds' => '모든 피드',
+		'average' => 'Average (%s)',	// TODO
 		'category' => '카테고리',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

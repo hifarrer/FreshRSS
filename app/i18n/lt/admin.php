@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistika',
 		'all_feeds' => 'Visi kanalai',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategorija',
 		'date_published' => 'Paskelbimo data',
 		'date_received' => 'Gavimo data',

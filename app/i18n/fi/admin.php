@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Tilastot',
 		'all_feeds' => 'Kaikki syötteet',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Luokka',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

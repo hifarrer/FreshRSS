@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Статистика',
 		'all_feeds' => 'Все подписки',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Категория',
 		'date_published' => 'Дата публикации',
 		'date_received' => 'Дата получения',

@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Статистика',
 		'all_feeds' => 'Всі стрічки',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Категорія',
 		'date_published' => 'Дата оприлюднення',
 		'date_received' => 'Дата отримання',

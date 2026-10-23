@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistics',
 		'all_feeds' => 'All feeds',
+		'average' => 'Average (%s)',
 		'category' => 'Category',
 		'date_published' => 'Publication date',
 		'date_received' => 'Received date',

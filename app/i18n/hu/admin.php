@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statisztika',
 		'all_feeds' => 'Minden hírforrás',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategória',
 		'date_published' => 'Publikálás dátuma',
 		'date_received' => 'Beérkezés dátuma',

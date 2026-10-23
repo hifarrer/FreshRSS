@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistika',
 		'all_feeds' => 'Visas barotnes',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategorija',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

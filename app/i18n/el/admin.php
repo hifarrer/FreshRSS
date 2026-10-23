@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Στατιστικά',
 		'all_feeds' => 'Όλες οι ροές',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Κατηγορία',
 		'date_published' => 'Ημερομηνία δημοσίευσης',
 		'date_received' => 'Ημερομηνία λήψης',

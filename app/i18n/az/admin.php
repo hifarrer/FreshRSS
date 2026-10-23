@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistika',
 		'all_feeds' => 'Bütün lentlər',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kateqoriya',
 		'date_published' => 'Dərc tarixi',
 		'date_received' => 'Alınma tarixi',

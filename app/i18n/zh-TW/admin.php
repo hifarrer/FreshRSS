@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => '統計',
 		'all_feeds' => '所有訂閱源',
+		'average' => 'Average (%s)',	// TODO
 		'category' => '類別',
 		'date_published' => '發表日期',
 		'date_received' => '接收日期',

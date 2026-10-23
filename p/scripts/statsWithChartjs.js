@@ -162,7 +162,7 @@ function jsonChartBarWithAverage(labelBarChart, dataBarChart, labelAverage, data
 				{
 					// average line chart
 					type: 'line',
-					label: labelAverage, // Todo: i18n
+					label: labelAverage,
 					borderColor: 'rgb(192,216,0)',
 					data: {
 						'-30': dataAverage,

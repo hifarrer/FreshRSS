@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistika',
 		'all_feeds' => 'Všechny kanály',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategorie',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

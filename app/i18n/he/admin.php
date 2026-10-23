@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'סטטיסטיקות',
 		'all_feeds' => 'כל ההזנות',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'קטגוריה',
 		'date_published' => 'Publication date',	// TODO
 		'date_received' => 'Received date',	// TODO

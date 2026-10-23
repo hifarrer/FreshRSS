@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistik',
 		'all_feeds' => 'Semua umpan',
+		'average' => 'Average (%s)',	// TODO
 		'category' => 'Kategori',
 		'date_published' => 'Tanggal terbit',
 		'date_received' => 'Tanggal diterima',

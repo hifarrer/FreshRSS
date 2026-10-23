@@ -47,6 +47,7 @@ return array(
 	'stats' => array(
 		'_' => 'Statistics',	// IGNORE
 		'all_feeds' => 'All feeds',	// IGNORE
+		'average' => 'Average (%s)',	// IGNORE
 		'category' => 'Category',	// IGNORE
 		'date_published' => 'Publication date',	// IGNORE
 		'date_received' => 'Received date',	// IGNORE
